@@ -10,7 +10,7 @@ Este proyecto es una aplicación web que simula un carrito de compras de discos 
 - Calcular y mostrar en tiempo real el total a pagar.
 
 ### 📸 **Vista previa de la aplicación**  
-![Venta de discos LP](image.png)
+![Venta de discos LP](Imagenes/bloglp.png)
 
 ### 🛠 **Tecnologías utilizadas**
 - **HTML** para la estructura de la página.
