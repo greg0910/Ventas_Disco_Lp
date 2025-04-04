@@ -1,7 +1,7 @@
 # 🛒 Venta de discos LP
 
 ## Descripción  
-Este proyecto es una aplicación web que simula un carrito de compras de discos LP.  
+Este proyecto es un ejercicio sencillo de aplicación web que simula un carrito de compras de discos LP.  
 
 ### 🎯 **Objetivos de la aplicación**
 - Visualizar una lista de productos disponibles.
@@ -22,6 +22,8 @@ Este proyecto es una aplicación web que simula un carrito de compras de discos 
 ✅ Botón para añadir productos al carrito.  
 ✅ Visualización del carrito y total a pagar.  
 ✅ Posibilidad de eliminar o vaciar productos del carrito.  
+
+[Ver la tarjeta de blog]()
 
 ## 📚 Fuentes y Referencias  
 Las imágenes utilizadas en este proyecto fueron tomadas como referencia de la tienda en línea **Triple B Records**.  
