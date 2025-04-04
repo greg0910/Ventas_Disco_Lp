@@ -23,7 +23,7 @@ Este proyecto es un ejercicio sencillo de aplicación web que simula un carrito 
 ✅ Visualización del carrito y total a pagar.  
 ✅ Posibilidad de eliminar o vaciar productos del carrito.  
 
-[Ver la tarjeta de blog]()
+[Ver la tarjeta de blog](http://gregventalp.io/)
 
 ## 📚 Fuentes y Referencias  
 Las imágenes utilizadas en este proyecto fueron tomadas como referencia de la tienda en línea **Triple B Records**.  
