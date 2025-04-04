@@ -23,6 +23,12 @@ Este proyecto es una aplicación web que simula un carrito de compras de discos 
 ✅ Visualización del carrito y total a pagar.  
 ✅ Posibilidad de eliminar o vaciar productos del carrito.  
 
+## 📚 Fuentes y Referencias  
+Las imágenes utilizadas en este proyecto fueron tomadas como referencia de la tienda en línea **Triple B Records**.  
 
+📌 **Fuente de las imágenes:**  
+🔗 **[Triple B Records](https://triplebrecords.net/)**  
+
+ℹ️ **Nota:** Este proyecto es solo una práctica académica y no está afiliado ni relacionado con **Triple B Records**.  
 
 
